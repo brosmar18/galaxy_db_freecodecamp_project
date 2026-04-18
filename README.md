@@ -1,1 +1,0 @@
-# galaxy_db_freecodecamp_project
